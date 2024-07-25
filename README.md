@@ -1,4 +1,7 @@
 # metatagAPI
+
+<img src="./img/GET_METATAG01.png"/>
+
 사이트의 메타태그를 찾아서 반환해주는 간단한 코드입니다 여기서 반환되는 메타태그는 property가 og:title, og:image, og:description 인 메타태그들의 값들을 반환해줍니다.
 변형하여 사용 가능합니다.
 
