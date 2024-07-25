@@ -9,3 +9,4 @@ http://127.0.0.1:8001/get?url=가져올 사이트 주소
 ```bash
 uvicorn main:app --host 0.0.0.0 --port 8001 --reload
 ```
+실행 명령어 입니다.
